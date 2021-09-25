@@ -4,6 +4,10 @@ title: About
 permalink: /about/
 ---
 
+This blog is more of a notepad for my research and learnings about Android malware. I would use this blog to revisit techniques and procedures involved in Android malware analysis.
+
+Along this journey, I wanted to contribute something towards the security community. So I decided to identify interesting Android malware every month and provide those malware for researchers and folks who are curious. This is my effort and inspiration in creating the monthly Android malware share. 
+
 [Reverie](https://github.com/amitmerchant1990/reverie) is a Jekyll theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for [my blog](https://www.amitmerchant.com).
 
 This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
